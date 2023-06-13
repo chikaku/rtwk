@@ -1,0 +1,12 @@
+[package]
+name = "rtwk"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kevin Chen <kevin@chenbc.me>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.71"
+rand = "0.8.5"
+rayon = "1.7.0"
